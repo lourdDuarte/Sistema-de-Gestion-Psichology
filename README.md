@@ -7,7 +7,8 @@ Registro Login:
 ![image](https://user-images.githubusercontent.com/66228399/171181805-7b254f0c-415a-4a55-93bc-8b1744c07b9d.png)
 
 Dashboard:
-![image](https://user-images.githubusercontent.com/66228399/171182009-42b6170b-35cf-45ce-90d5-281abc3c5738.png)
+![image](https://user-images.githubusercontent.com/66228399/171186932-b711c8c5-a597-4309-9bc3-dae757416815.png)
+
 
 Modulo pacientes:
 ![image](https://user-images.githubusercontent.com/66228399/171182241-64bcff0d-ebbf-4746-b50c-77eb72f1227c.png)
