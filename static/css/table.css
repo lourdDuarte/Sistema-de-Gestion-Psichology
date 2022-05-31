@@ -1,0 +1,38 @@
+
+
+table{
+  border: 10px;
+  width: 50%;
+  border-collapse: collapse;
+
+}
+
+
+caption{
+  caption-side: top;
+  border:50px; 
+  font-size: 25px;
+  padding: 10px;
+  color:#000000;
+}
+
+td, th{
+  font-size: 20px;
+  padding: 15px;
+  color:#000000;
+  background: #fff;
+}
+
+body{
+  width:100%;
+  height: 100%;
+  background-color: #ddd;
+  text-align: center;
+  font-family: Arial;
+}
+
+thead{
+  border-bottom: solid 5px #247F50;
+
+}
+
